@@ -1,0 +1,30 @@
+.cal_title {
+  text-align: center;
+  font-size: 80px;
+}
+
+.cal {
+  text-align: center;
+  font-size: 25px;
+}
+
+table.calendar {
+  border: 3px solid black;
+  display: inline-table;
+  text-align: center;
+
+}
+
+table.calendar th {
+  border: 2px solid gray;
+  vertical-align: top;
+  width: 200px;
+  text-align: center;
+}
+
+table.calendar td {
+  border: 2px solid gray;
+  vertical-align: top;
+  width: 200px;
+  text-align: left;
+}
